@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="NestJs" width="35px" src="https://docs.nestjs.com/assets/logo-small.svg" />
 <img align="left" alt="PHP" width="35px" src="https://www.php.net/images/logos/new-php-logo.png" />
 <img align="left" alt="Laravel" width="35px" src="https://github.com/laravel/art/blob/master/laravel-logo.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
