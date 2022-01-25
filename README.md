@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <img align="right" height="280px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Informatic System Management student at Universidad Nacional (Colombia)
-- 🔭 I’m currently working on Backend develop with laravel :grin:
-- 🌱 I’m currently learning React and MongoDB.
-- 💬 Ask me about anything, I am happy to help :smile:
+### I am a Management Information Systems student at Universidad Nacional (Colombia)
+- 🔭 I’m currently working on Backend develop with Laravel :grin:
+- 🌱 I’m currently learning NestJs, React and MongoDB.
+- 💬 Ask me about anything, I am happy to help you :smile:
 - 🧗 I try to: Go beyond 
 - ⚡ Fun fact: I like connecting with different people :raised_hands:
 
