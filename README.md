@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <img align="right" height="280px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Management Information Systems student at Universidad Nacional (Colombia)
+### I am a front end developer on React
 - 🔭 I’m currently working on Backend develop with Laravel :grin:
-- 🌱 I’m currently learning NestJs, React and MongoDB.
+- 🌱 I’m currently learning GraphQL and MongoDB.
 - 💬 Ask me about anything, I am happy to help you :smile:
 - 🧗 I try to: Go beyond 
 - ⚡ Fun fact: I like connecting with different people :raised_hands:
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="ReactJS" width="35px" src="https://en.wikipedia.org/wiki/File:React-icon.svg" />
+<img align="left" alt="ReactJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="NestJs" width="35px" src="https://docs.nestjs.com/assets/logo-small.svg" />
 <img align="left" alt="PHP" width="35px" src="https://www.php.net/images/logos/new-php-logo.png" />
 <img align="left" alt="Laravel" width="35px" src="https://github.com/laravel/art/blob/master/laravel-logo.png" />
