@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="ReactJS" width="35px" src="https://en.wikipedia.org/wiki/File:React-icon.svg" />
-<img align="left" alt="ReactJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" />
+<img align="left" alt="ReactJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" />
+<img align="left" alt="VueJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="NestJs" width="35px" src="https://docs.nestjs.com/assets/logo-small.svg" />
 <img align="left" alt="PHP" width="35px" src="https://www.php.net/images/logos/new-php-logo.png" />
 <img align="left" alt="Laravel" width="35px" src="https://github.com/laravel/art/blob/master/laravel-logo.png" />
