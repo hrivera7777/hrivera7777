@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <img align="right" height="280px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a front end developer on React
-- 🔭 I’m currently working on Backend develop with Laravel :grin:
-- 🌱 I’m currently learning GraphQL and MongoDB.
+- 🔭 I’m currently working as fullstack developer with Laravel and VueJs :grin:
+- 🌱 I’m currently learning Redux, MongoDB and Firebase(serverless).
 - 💬 Ask me about anything, I am happy to help you :smile:
 - 🧗 I try to: Go beyond 
 - ⚡ Fun fact: I like connecting with different people :raised_hands:
