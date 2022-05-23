@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="right" height="280px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="center" height="280px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a front end developer on React
 - 🔭 I’m currently working as fullstack developer with Laravel and VueJs :grin:
