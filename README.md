@@ -19,23 +19,22 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/in/hans-rivera-342b63217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:hriveracode@gmail.com?subject=Hola%20Hans"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <br>
+  <a href="https://www.linkedin.com/in/hans-rivera-342b63217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:hriveracode@gmail.com?subject=Hola%20Hans"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 <br>
-<p align="center">
-<img align="left" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</p>
-<h3>I am a front end developer on React</h3>
-<ul>
-  <li> 🔭 I’m currently working as fullstack developer with Laravel and VueJs :grin:</li>
-  <li> 🌱 I’m currently learning Redux, MongoDB and Firebase(serverless).</li>
-  <li> 💬 Ask me about anything, I am happy to help you :smile:</li>
-  <li> 🧗 I try to: Go beyond 
-  <li> ⚡ Fun fact: I like connecting with different people :raised_hands:</li>
-</ul>
+
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <h3>I am a front end developer on React</h3>
+  <ul>
+    <li> 🔭 I’m currently working as fullstack developer with Typescript, React, and tRPC :grin:</li>
+    <li> 🌱 I’m currently learning MongoDB and Firebase(serverless).</li>
+    <li> 💬 Ask me about anything, I am happy to help you :smile:</li>
+    <li> 🧗 I try to: Go beyond 
+    <li> ⚡ Fun fact: I like connecting with different people :raised_hands:</li>
+  </ul>
 <br>
 
 ### Languages and Tools: 
@@ -43,6 +42,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Typescript" width="35px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="ReactJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" />
 <img align="left" alt="VueJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" />
