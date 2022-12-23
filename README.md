@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  <h3>I am a front end developer on React</h3>
+  <h3>I am a frontend developer | full stack developer</h3>
   <ul>
     <li> 🔭 I’m currently working as fullstack developer with Typescript, React, and tRPC :grin:</li>
     <li> 🌱 I’m currently learning MongoDB and Firebase(serverless).</li>
