@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <h3>I am a full stack developer | frontend developer </h3>
   <ul>
-    <li> 🔭 I’m currently working as fullstack developer with Typescript, React, tRPC, and NodeJs :grin:</li>
+    <li> 🔭 I’m currently working as fullstack developer with Typescript, React, Python and NodeJs :grin:</li>
     <li> 🌱 I’m currently learning Go.</li>
     <li> 💬 Ask me about anything, I am happy to help you :smile:</li>
     <li> 🧗 I try to: Go beyond 
